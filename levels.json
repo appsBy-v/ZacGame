@@ -1,7 +1,7 @@
 [
   {
     "level": 1,
-    "hint": "A place that is safe, cozy, and warm!",
+    "hint": "A place to sleep that is safe, cozy, and warm!",
     "completion": "Awesome! Now where is a bed for Mom and Dad?",
     "words": ["MOM", "DAD", "BED"]
   },
@@ -25,26 +25,26 @@
   },
   {
     "level": 5,
-    "hint": "Where could your presents be hiding?",
-    "completion": "You did it! Now go look under the couch, on the shelf, and in the attic! Happy Birthday!",
-    "words": ["COUCH", "SHELF", "ATTIC"]
+    "hint": "Where do we keep all our drawing stuff?",
+    "completion": "You did it! Now go look in the spot with all the art supplies!",
+    "words": ["ART", "PEN", "COLOR"]
   },
   {
     "level": 6,
-    "hint": "Where could your presents be hiding?",
-    "completion": "You did it! Now go look in the garage, backyard, and kitchen! Happy Birthday!",
-    "words": ["GARAGE", "BACKYARD", "KITCHEN"]
+    "hint": "Where you make stinkies and clean yourself up!",
+    "completion": "Awesome! Go check the bathroom!",
+    "words": ["TUB", "POOP", "SINK"]
   },
   {
     "level": 7,
-    "hint": "Where could your presents be hiding?",
-    "completion": "You did it! Now go look in the bathroom, closet, and dining room! Happy Birthday!",
-    "words": ["BATHROOM", "CLOSET", "DINING ROOM"]
+    "hint": "Where Zac is supposed to sleep!",
+    "completion": "Yup! Now go check your bedroom!",
+    "words": ["BED", "JEEP", "SLEEP"]
   },
   {
     "level": 8,
-    "hint": "Where could your presents be hiding?",
-    "completion": "You did it! Now go look in the basement, front yard, and office! Happy Birthday!",
-    "words": ["BASEMENT", "FRONT YARD", "OFFICE"]
+    "hint": "Where Dad does his work and play games!",
+    "completion": "Heck yeah! Now go check Dad's desk.",
+    "words": ["WORK", "MESS", "GAME"]
   }
 ]
