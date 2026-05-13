@@ -2,41 +2,49 @@
   {
     "level": 1,
     "hint": "A place that is safe, cozy, and warm!",
+    "completion": "Awesome! Now where is a bed for Mom and Dad?",
     "words": ["MOM", "DAD", "BED"]
   },
   {
     "level": 2,
-    "hint": "Things you might find outside...",
-    "words": ["TREE", "BIRD", "POND"]
+    "hint": "Where we fill our bellies!",
+    "completion": "Wow, you are so smart! Better check somewhere we cook food.",
+    "words": ["FOOD", "COOK", "EAT"]
   },
   {
     "level": 3,
-    "hint": "Yummy things to eat!",
-    "words": ["CAKE", "TACO", "PLUM"]
+    "hint": "A place to bounce around!",
+    "completion": "You kick butt! Now where do you jump, flip, and roll?",
+    "words": ["JUMP", "FLIP", "ROLL"]
   },
   {
     "level": 4,
-    "hint": "Animals big and small!",
-    "words": ["LION", "FROG", "BEAR"]
+    "hint": "One of our favorites places to play!",
+    "completion": "Good job! Now where does Dad keep his bike?",
+    "words": ["BALL", "SWING", "BIKE"]
   },
   {
     "level": 5,
-    "hint": "🎁 You found them all! Ask Mom or Dad where to look!",
-    "words": ["COUCH", "ATTIC", "SHELF"]
+    "hint": "Where could your presents be hiding?",
+    "completion": "You did it! Now go look under the couch, on the shelf, and in the attic! Happy Birthday!",
+    "words": ["COUCH", "SHELF", "ATTIC"]
   },
   {
     "level": 6,
-    "hint": "🎁 You found them all! Ask Mom or Dad where to look!",
+    "hint": "Where could your presents be hiding?",
+    "completion": "You did it! Now go look in the garage, backyard, and kitchen! Happy Birthday!",
     "words": ["GARAGE", "BACKYARD", "KITCHEN"]
   },
   {
     "level": 7,
-    "hint": "🎁 You found them all! Ask Mom or Dad where to look!",
+    "hint": "Where could your presents be hiding?",
+    "completion": "You did it! Now go look in the bathroom, closet, and dining room! Happy Birthday!",
     "words": ["BATHROOM", "CLOSET", "DINING ROOM"]
   },
   {
     "level": 8,
-    "hint": "🎁 You found them all! Ask Mom or Dad where to look!",
+    "hint": "Where could your presents be hiding?",
+    "completion": "You did it! Now go look in the basement, front yard, and office! Happy Birthday!",
     "words": ["BASEMENT", "FRONT YARD", "OFFICE"]
   }
 ]
