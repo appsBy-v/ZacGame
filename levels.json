@@ -1,0 +1,42 @@
+[
+  {
+    "level": 1,
+    "hint": "A place that is safe, cozy, and warm!",
+    "words": ["MOM", "DAD", "BED"]
+  },
+  {
+    "level": 2,
+    "hint": "Things you might find outside...",
+    "words": ["TREE", "BIRD", "POND"]
+  },
+  {
+    "level": 3,
+    "hint": "Yummy things to eat!",
+    "words": ["CAKE", "TACO", "PLUM"]
+  },
+  {
+    "level": 4,
+    "hint": "Animals big and small!",
+    "words": ["LION", "FROG", "BEAR"]
+  },
+  {
+    "level": 5,
+    "hint": "🎁 You found them all! Ask Mom or Dad where to look!",
+    "words": ["COUCH", "ATTIC", "SHELF"]
+  },
+  {
+    "level": 6,
+    "hint": "🎁 You found them all! Ask Mom or Dad where to look!",
+    "words": ["GARAGE", "BACKYARD", "KITCHEN"]
+  },
+  {
+    "level": 7,
+    "hint": "🎁 You found them all! Ask Mom or Dad where to look!",
+    "words": ["BATHROOM", "CLOSET", "DINING ROOM"]
+  },
+  {
+    "level": 8,
+    "hint": "🎁 You found them all! Ask Mom or Dad where to look!",
+    "words": ["BASEMENT", "FRONT YARD", "OFFICE"]
+  }
+]
