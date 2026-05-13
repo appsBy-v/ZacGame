@@ -417,8 +417,8 @@ function loadLevel(idx) {
   completedWords = new Set();
   const lvl = levels[idx];
 
-  document.getElementById('level-label').textContent = `Level ${lvl.level}`;
-  document.getElementById('hint-text').textContent = `💡 ${lvl.hint}`;
+  document.getElementById('level-label').textContent = `Level ${lvl.level}/8`;
+  document.getElementById('hint-text').textContent = `${lvl.hint}`;
   document.getElementById('next-btn').classList.remove('show');
 
   const banner = document.getElementById('completion-banner');
